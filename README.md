@@ -16,7 +16,7 @@ I'm a passionate **Frontend Developer** currently in my **2nd year** studying Fr
 - Front-end development tools and workflows
 - Fun fact: I believe every bug is just a hidden feature waiting to be discovered!
 
-## Tech Stack & Skills
+## 💻 Tech Stack & Skills
 
 ### Core Frontend Technologies
 
